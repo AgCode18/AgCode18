@@ -70,7 +70,7 @@ This is where my contributions, total commits, and most-used programming languag
 ---
 
 ## 💫 About Me
-I am a passionate **Full-Stack Engineer** dedicated to engineering high-performance, responsive, and robust web applications. With expertise spanning the complete modern JavaScript ecosystem and backend architecture, I love building applications from concept to deployment. 
+I am Anuj Gour a passionate **Full-Stack Engineer** dedicated to engineering high-performance, responsive, and robust web applications. With expertise spanning the complete modern JavaScript ecosystem and backend architecture, I love building applications from concept to deployment. 
 
 * 🚀 Specialized in building fluid, user-first frontends with **React** and **Next.js**.
 * ⚙️ Architecting secure, scalable microservices and RESTful/GraphQL APIs using **Node.js**, **Express**, and **Prisma**.
